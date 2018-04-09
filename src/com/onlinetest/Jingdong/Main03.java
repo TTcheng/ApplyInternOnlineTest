@@ -1,3 +1,5 @@
+package com.onlinetest.Jingdong;
+
 import java.util.Scanner;
 
 /**

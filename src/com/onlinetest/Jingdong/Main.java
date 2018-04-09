@@ -1,3 +1,5 @@
+package com.onlinetest.Jingdong;
+
 import java.util.Scanner;
 /**
  * 京东在线测试，编程题 1
